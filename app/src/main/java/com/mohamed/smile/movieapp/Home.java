@@ -96,6 +96,10 @@ public class Home extends AppCompatActivity {
     public void mohamed(){
 
     }
+
+    public void Taher(){
+
+    }
     private AlbumsAdapter adapter;
     private List<Helper>  albumList;
     @Override
