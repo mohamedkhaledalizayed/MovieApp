@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.finalmovie.MainActivity">
+    <item
+        android:id="@+id/favorites_movies"
+        android:title="@string/fav"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/popular_movies"
+        android:title="@string/popular"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/highestrated_movies"
+        android:title="@string/high_rate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about_me"
+        android:title="@string/about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+</menu>

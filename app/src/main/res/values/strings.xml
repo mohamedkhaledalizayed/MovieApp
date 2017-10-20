@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Movie Details</string>
+    <string name="fav">Favorits</string>
+    <string name="popular">Popular Movies</string>
+    <string name="high_rate">Highest Rated</string>
+    <string name="about">About Me</string>
+    <string name="exit">Exit</string>
+    <string name="Movie_Title" >Movie Title</string>
+    <string name="Movie_Rate" >Movie Rate</string>
+    <string name="Movie_date" >Movie Date</string>
+    <string name="Movie_adult" >Adult</string>
+    <string name="Movie_Traillers" >Movie Traillers</string>
+    <string name="Movie_OverView" >Movie OverView</string>
+</resources>
