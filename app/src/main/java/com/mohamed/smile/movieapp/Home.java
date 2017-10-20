@@ -89,6 +89,9 @@ public class Home extends AppCompatActivity {
       String s_Movie_Id;
       int    s_Movie_Postion;
 
+    public void test(){
+
+    }
     private AlbumsAdapter adapter;
     private List<Helper>  albumList;
     @Override
